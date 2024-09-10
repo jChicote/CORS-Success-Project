@@ -1,0 +1,17 @@
+{
+  "name": "cors-success-project",
+  "version": "1.0.0",
+  "description": "This is an experimental project to develop a simple page that sends out a request and recieves a response to the SBDB Query API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.20.0",
+    "request": "^2.88.2"
+  }
+}
